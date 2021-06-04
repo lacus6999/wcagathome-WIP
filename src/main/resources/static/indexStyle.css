@@ -1,0 +1,12 @@
+body {
+
+}
+#first {
+    background-color: grey;
+}
+#second {
+    background-color: hsl(0, 100%, 50%);
+}
+#third {
+    background-color: #3e91f6;
+}
